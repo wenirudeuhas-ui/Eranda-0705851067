@@ -1,0 +1,22 @@
+module.exports = {
+    AUTO_VIEW_STATUS: 'true',
+    AUTO_LIKE_STATUS: 'true',
+    AUTO_RECORDING: 'true',
+    AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '🪴', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '🤖', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💚'],
+    PREFIX: '.',
+    MAX_RETRIES: 3,
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Ctlfm8HwU6u9zaDVF00M8K?mode=gi_t',
+    ADMIN_LIST_PATH: './admin.json',
+    IMAGE_PATH: 'https://files.catbox.moe/5ncuwv.jpeg', //ඒක හරි 
+    NEWSLETTER_JID: '120363424104757487@newsletter',
+    NEWSLETTER_MESSAGE_ID: '428',
+    OTP_EXPIRY: 300000,
+    NEWS_JSON_URL: '',
+    BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐑𝐄𝐃 𝐂𝐇𝐔𝐓𝐈 𝐌𝐃 𝐕1🐇📡',
+    OWNER_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐑𝐄𝐃 𝐂𝐇𝐔𝐓𝐈 𝐌𝐃 𝐕1🐇📡',
+    OWNER_NUMBER: '94705851067',
+    WELCOME_OWNER: '94740285058',
+    BOT_VERSION: '2.0.0',
+    BOT_FOOTER: '> *𝐏𝙾𝚆𝙴𝚁𝙴𝙳 𝐁𝐘 𝐐𝐔𝐄𝐄𝐍 𝐑𝐄𝐃 𝐂𝐇𝐔𝐓𝐈 𝐌𝐃 𝐕1 🐇📡*',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb7y6JB1yT20bJxMcP45',
+};
